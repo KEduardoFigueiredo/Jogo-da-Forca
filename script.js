@@ -31,6 +31,7 @@ let options = {
     "China",
     "catar",
     "Argentina",
+    "Egito",
     "Espanha",
     "Noruega",
     "Egito",
@@ -38,7 +39,7 @@ let options = {
     "Holanda",
     "Turquia"
   ],
-  profissões: ["professor","carteiro", "padeiro", "cabelereiro", "otorrinolaringologista", "programador", "streamer", "jornalista", "cozinheiro", "eletricista", "contador", "agrônomo", "médico", "psicólogo", "psiquiatra", "sommelier"]
+  profissões: ["professor","carteiro", "padeiro", "cabelereiro", "otorrinolaringologista", "programador", "streamer", "jornalista", "cozinheiro", "eletricista", "contador", "agronomo", "medico", "psicologo", "psiquiatra", "sommelier"]
 };
 
 //count
